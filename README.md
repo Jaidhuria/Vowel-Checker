@@ -17,4 +17,4 @@ Efficient: No fluff, just results.
 
 Tech Stack 💡
 Language: HTML , CSS , JAVASCRIPT
-Editor/IDE: Your favorite (we're not picky)
+Editor/IDE: VS Code.
